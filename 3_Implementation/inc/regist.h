@@ -24,3 +24,4 @@ typedef struct patient{
 patient_details pd[1000];
 
 #endif
+
